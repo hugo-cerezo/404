@@ -1,8 +1,9 @@
 body{
 
-	background-image:url("gawf.jpg");
+	background-image:url("photo/gawf.jpg");
 	background-size: cover;
-	font-family: 'pixel';
+	opacity: 0.85;
+	
 }
 .img1{
 
