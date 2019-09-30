@@ -1,0 +1,58 @@
+body{
+
+	background-image:url("gawf.jpg");
+	background-size: cover;
+	font-family: 'pixel';
+}
+.img1{
+
+	width: 15%;
+	height: 15%;
+}
+.img2{
+
+	width: 15%;
+	height: 15%;
+}
+.img3{
+
+	width: 15%;
+	height: 15%;
+}
+.img4{
+
+	width: 10%;
+	height: 10%;
+}
+.images{
+	width: 40%;
+	border-style: solid;
+	border-top-style: none;
+	border-right: none;
+	border-left: none;
+	border-bottom: dashed;
+	display: flex;
+	margin-left: 29%;
+	
+	
+	
+}
+.titre{
+	padding-top: 17%;
+	text-align: center;
+	font-size: 220%;
+}
+.soustitre{
+
+	text-align: center;
+	font-size: 110%;
+
+}
+.textebas{
+	text-align: center;
+	font-size: 120%;
+}
+.surliste{
+	margin-left: 40px;
+
+}
